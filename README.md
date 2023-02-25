@@ -9,9 +9,7 @@ https://modugoods.com/
 #### 개발기간 및 인원
 
 - 개발 기간: 2022-09-19 ~ 2022-09-30 14:00
-- 개발 인원: 5명
-FE : 김유현, 안승섭, 정세영
-BE : 이해연, 박지은
+- 개발 인원: 5명 (프론트 3명, 벡엔드 2명)
 
 
 #### GitHub Repo 주소
@@ -27,33 +25,10 @@ BE : 이해연, 박지은
 ## DB Modeling
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/103613612/193611644-48f551db-dd09-4ee6-8573-f637e0419459.png">
 
-## 기능 분담
+## 담당기능
 
-#### 김유현
 * 회원가입
 * 로그인
 * 마이페이지
 
-#### 안승섭
-- 제품 상세 화면 UI
-- API 연동
-- 각종 버그 수정
 
-#### 정세영
-- 메인 화면 UI
-- 상품 리스트 화면 UI
-- 장바구니 화면 UI API 연동
-
-#### 이해연
-- 상품 상세페이지 API
-- 리뷰 조회, 작성 API
-- 마이페이지 API
-- 좋아요 API
-
-#### 박지은
-- 메인화면 API
-- 카테고리별 API
-- 상품 정렬 API
-- 장바구니 CRUD API
-- 회원가입 / 로그인 API
-- User Check Middleware
