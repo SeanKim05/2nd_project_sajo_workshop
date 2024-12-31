@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/103613612/193570533-c49a54fc-f83b-40a1-88be-2467356caf2c.png" width="100" height="100" />
 
-#### 모두의 공방 클론 프로젝트입니다.
-https://modugoods.com/
-###### 모두의 공방 페이지 리뉴얼로 인하여 기존 페이지를 참조하지 않고 기획부터 디자인까지 진행했습니다
+#### 핸드메이드 제품 판매 사이트 제작 프로젝트입니다.
 
 #### 개발기간 및 인원
 
